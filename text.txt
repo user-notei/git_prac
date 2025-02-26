@@ -1,7 +1,7 @@
-Git�̗��K�����Ă��܂��B
-��{�I�ȃ��[�N�t���[���w�т܂��B
-�Egit add
-�Egit comit
-�Egit rm
-�Egit status
-�Ă���
+Gitの練習をしてきます。
+基本的なワークフローを学びます。
+・git add
+・git comit
+・git rm
+・git status
+・git diff
